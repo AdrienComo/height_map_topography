@@ -28,11 +28,11 @@ make
 /bin/main image_path save_path
 ```
 
-**image_path** : is the path to your image like "data/img/yourImage.png" <br>
-**save_path**  : is the path where you'd like to save your image like  : "data/savedImages/" <br>
-In this exmple the images are going to be renamed "**yourImage_leftRight.png**" and "**yourImage_topBottom.png**"<br>
-The variable **timeWindowON** in the .h sets the time the windows displaying the results stays open (in milliseconds).<br>
-You can choose not to display the results by commenting the **display()** function in the .cpp <br>
+-**image_path** : is the path to your image like "data/img/yourImage.png" <br>
+-**save_path**  : is the path where you'd like to save your image like  : "data/savedImages/" <br>
+-In this exmple the images are going to be renamed "**yourImage_leftRight.png**" and "**yourImage_topBottom.png**"<br>
+-The variable **timeWindowON** in the .h sets the time the windows displaying the results stays open (in milliseconds).<br>
+-You can choose not to display the results by commenting the **display()** function in the .cpp <br>
 
 **Works for .png/.jpg/.jpeg**
 
