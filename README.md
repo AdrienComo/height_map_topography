@@ -1,11 +1,11 @@
 # height_map_topography
 
-This code helps compute grayscaled height maps images highest parts horizontally and vertically.
+This code helps compute grayscaled height maps images showing the highest parts horizontally and vertically.
 
 ### EXAMPLE 1
 
 <p>
-  <img src="https://github.com/the-kim-jong-un/height_map_topography/blob/main/data/shape.png" width="256" height="256">
+  <img src="https://github.com/the-kim-jong-un/height_map_topography/blob/main/data/shape.png" width="255" height="255">
   <img src="https://github.com/the-kim-jong-un/height_map_topography/blob/main/data/shape_leftRight.png" width="255" height="255">
   <img src="https://github.com/the-kim-jong-un/height_map_topography/blob/main/data/shape_topBottom.png" width="255" height="255">
 </p>
